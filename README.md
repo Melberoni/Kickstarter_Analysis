@@ -30,7 +30,7 @@ I checked my logic over and over again and it seemed correct so in office hours 
 
 ![incorrect_code](resources/incorrect_code.jpg)
 
-Im very glad I go to class early and spoke up as this was a minor issue that was easily fixed but would have cost me some points on the final project.
+Im very glad I go to class early and spoke up as this was a minor issue that was easily fixed but would have cost me some points on this challenge.
 
 
 ## Results
