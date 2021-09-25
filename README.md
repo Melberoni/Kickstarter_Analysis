@@ -23,8 +23,10 @@ The graph below shows the percent of each outcome compared to the goal of all of
 
 ### Challenges and Difficulties Encountered
 One challenge that i encountered was with the outcomes vs goals campaign graph. My graph was initially similar to the expected output but not exact (see image below).
+![incorrect_image](resources/incorrect.png)
 
 I checked my logic over and over again and it seemed correct so in office hours before class i asked if anyone else had similar issues and one person had the exact same problem as me and it made me feel like i was not wrong, but as the small group inspected our code another classmate noted we forgot to add the filter for "Plays" (see image below)
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
