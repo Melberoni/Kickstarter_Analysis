@@ -14,6 +14,7 @@ The Challenge was to analize outcomes of different campaigns in relation to thei
 ![outcomes vs Launch Date](resources/Theater_outcomes_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes based on Goals](resources/Outcomes_VS_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
