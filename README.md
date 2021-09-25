@@ -37,7 +37,8 @@ Im very glad I go to class early and spoke up as this was a minor issue that was
 
 #### What are two conclusions you can draw about the Outcomes based on Launch Date?
 - Theater outcomes have more successful campaigns than failed or canceled combined.
-- The month of May seems to have the most launches and therefore has the most successful otucomes. The total number of campaigns decreases as you go into fall and winter, there   are also fewer successful campaigns going into winter.
+- The month of May seems to have the most launches and therefore has the most successful otucomes. 
+- The total number of campaigns decreases as you go into fall and winter, there   are also fewer successful campaigns going into winter.
 
 #### What can you conclude about the Outcomes based on Goals?
 - Generally speaking the Percentage of successfull campaigns decreases as the Goal of the campaign increases.
@@ -45,6 +46,11 @@ Im very glad I go to class early and spoke up as this was a minor issue that was
 - It seems that those campaigns with a goal under $15,000 have the best chance of being succcessful.
 
 #### What are some limitations of this dataset?
-- 
+- This data set only shows the outcomes of the crowdfunding campaign, it doesnt show if the project was successful inthe real world, for example if a play was good, or if a food truck made money etc.
+- You dont know if the backers of the different campaigns are family and friends of the person starting the kickstarter or just random people
+- It doesnt include any information about how each person promoted their kickstarter, if at all.
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
+- It would be interestng to see how many backers successful campaigns had vs failed campaigns
+- I would also like to know more about the spotlight and staff pick variables, does having that as true mean your more likely to have a successful campaign?
+- Average donation vs goals
