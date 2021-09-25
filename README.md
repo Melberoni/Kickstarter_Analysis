@@ -11,6 +11,7 @@ The purpose is to identify factors that make a kickstarter campaign successful a
 The Challenge was to analize outcomes of different campaigns in relation to their launch dates and funding goals. 
 
 ### Analysis of Outcomes Based on Launch Date
+![outcomes vs Launch Date](resources/Theater_outcomes_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
