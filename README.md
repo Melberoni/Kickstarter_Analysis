@@ -1,3 +1,7 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
 Louise wants to start a crowdfunding campaign for her new play Fever, she has estimated a budget of $10,000. She wants to know if there are specific factors that make a Kickstarter campaign successful. We have a dataset of crowdfunding information from the website Kickstarter.  This is broken down into different types of crowdfunding projects and includes variables such as goal amount, pledged amount, country, how many backers and if the project was successfully funded or not.
 
 ### Purpose
